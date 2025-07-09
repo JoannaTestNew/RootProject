@@ -1,2 +1,10 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿namespace RootProject
+{
+    public class RootClass
+    {
+        public string GetMessage()
+        {
+            return "Hello from RootProject!";
+        }
+    }
+}
