@@ -2,7 +2,7 @@
 {
     public class RootClass
     {
-        public string GetMessage()
+        public string GetMessageinfo()
         {
             return "Hello from RootProject!";
         }
